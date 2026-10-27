@@ -1,0 +1,6 @@
+{
+  "name": "EduManage - School Management System",
+  "description": "Comprehensive school ERP portal with multi-role dashboards for administrators, teachers, students, and parents featuring attendance, gradebook, timetable, fee management, and notices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
